@@ -20,3 +20,11 @@ public class IntStringInput {
         }  
     }  
 }  
+
+/*
+Enter the number of elements you want to store: 7
+Enter the elements of the array: 
+11 12 13 14 15 16 17 18 19
+Array elements are: 
+11 12 13 14 15 16 17 
+*/
