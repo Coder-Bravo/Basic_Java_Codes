@@ -1,7 +1,7 @@
 public class StringReverse {
     public static void main(String[] args) {
         String mystring = "My name is Pratik";
-        String rev = null;
+        String rev = "";
         for (int i = mystring.length()-1; i>=0; i--) {
             rev = rev + mystring.charAt(i);
         }
